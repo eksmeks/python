@@ -1,0 +1,32 @@
+
+~> Explore some units! The x,y,z axis are kilogramm, meter and seconds. 
+~> The basic units are accessable through the control buttons on the right or through following keys:
+
+### CONFIGURATION AND CONTROL ###
+
+[up]     = m +
+[down]   = m -
+[left]   = s + 
+[right]  = s - 
+[,]      = kg +
+[.]      = kg -
+[k]      = K +
+[L]      = K -
+[h]      = A +
+[j]      = A -
+[n]      = mol +
+[m]      = mol -
+
+[q]   = turn horizontal +
+[a]   = turn horizontal -
+[w]   = rotate up
+[s]   = rotate down
+[e]   = expand vertical
+[d]   = shrink vertical
+[r]   = zoom in
+[f]   = zoom out
+[t]   = grow bubbles 
+[g]   = shrink bubbles 
+[z]   = isometric y +
+[u]   = isometric y -
+
