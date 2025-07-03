@@ -1,0 +1,41 @@
+'''
+###################################################################
+controls:
+
+[x] zoom in
+[y] zoom out
+[v] seed z(+,0)         [1] g -
+[c] seed z(-,0)         [2] g + 
+[f] seed z(0,+)         [3] f - 
+[d] seed z(0,-)         [4] f + 
+[5] o - 
+[6] o +     f(z)**o/k
+[7] k -  
+[8] k +       
+[9] cc +  {-2;2}
+[0] cci + {-2i;2i}
+[#] cz [on/off]{+/-}  
+[u] maximum iterations -  
+[i] maximum iterations +         
+[ö] precision - 
+[ä] precision + 
+[r] reset                        
+[m] control menu
+[o|k|j] change colors       (1;9,random)
+[s] save image            
+[p|l] switch formula        (-4;15)
+[arrowkeys] move       
+[a] rotate
+[space] toggle surf mode
+[+] modulo stripes          (0,1,2,3)
+[-] colorshift              (0,1,2)
+[,] sound on/off
+[.] inner squircle          (0,1,2,3,4,5,6,7)
+[ü] specialmode             (0,1,2,3) 
+[q] zoom outomat
+[leftmouse] trace
+[rightmouse] trace on/off
+
+[p/l|o/k/j|-|+|.|ü|ö/ä|space]
+###################################################################
+'''
